@@ -1,0 +1,142 @@
+charset=utf-8,# Downloaded from https://www.nutritionvalue.org 
+# Cheese, cream
+# Serving size 100 g
+Nutrient, Amount, Unit
+"Calories", 350.00, KCAL
+"Fat", 34.44, G
+"Protein", 6.15, G
+"Carbohydrate", 5.52, G
+"Folic acid", 0.00, UG
+"Fatty acids, total trans-monoenoic", 0.944, G
+"Fatty acids, total trans", 1.173, G
+"Choline", 26.8, MG
+"Betaine", 0.5, MG
+"Docosahexaenoic n-3 acid (DHA)", 0.00, G
+"Tocopherol, beta", 0.00, MG
+"Tocotrienol, beta", 0.00, MG
+"Sucrose", 0.00, G
+"Glucose (dextrose)", 0.00, G
+"Maltose", 0.00, G
+"Fructose", 0.00, G
+"Galactose", 0.00, G
+"Tocopherol, delta", 0.00, MG
+"Tocotrienol, gamma", 0.00, MG
+"Tocotrienol, delta", 0.00, MG
+"Vitamin K (Dihydrophylloquinone)", 0.00, UG
+"Pentadecenoic acid", 0.000, G
+"Vitamin K", 2.1, UG
+"Folate, food", 9.00, UG
+"Thiamin", 0.023, MG
+"Riboflavin", 0.230, MG
+"Folate", 9.00, UG
+"Vitamin B12", 0.22, UG
+"Phosphorus, P", 107.00, MG
+"Copper, Cu", 0.018, MG
+"Iron, Fe", 0.11, MG
+"Lactose", 3.76, G
+"Vitamin A", 1111.00, IU
+"Retinol", 303.00, UG
+"Vitamin A, RAE", 308.00, UG
+"Carotene, beta", 59.00, UG
+"Carotene, alpha", 1.00, UG
+"Vitamin D3", 0.00, UG
+"Vitamin D", 0.00, UG
+"Cryptoxanthin, beta", 2.00, UG
+"Lycopene", 0.00, UG
+"Ash", 1.27, G
+"Saturated fatty acids", 20.213, G
+"Octanoic acid", 0.366, G
+"Dodecanoic acid", 1.004, G
+"Tetradecanoic acid", 3.275, G
+"Cholesterol", 101.00, MG
+"Cis,cis,cis-octadecatrienoic n-3 acid (ALA)", 0.12, G
+"Eicosadienoic n-3 acid", 0.002, G
+"Trans-octadecatrienoic acid", 0.004, G
+"Docosatetraenoic acid", 0.008, G
+"Docosanoic acid", 0.014, G
+"Tetradecenoic acid", 0.346, G
+"Hexadecenoic acid", 0.651, G
+"Eicosapentaenoic n-3 acid (EPA)", 0.01, G
+"Docosapentaenoic n-3 acid (DPA)", 0.02, G
+"Heptadecanoic acid", 0.207, G
+"Tetracosanoic acid", 0.008, G
+"Trans-hexadecenoic acid", 0.108, G
+"Tetracosenoic cis acid", 0.000, G
+"Cis-octadecenoic acid", 6.940, G
+"Cis,cis-octadecadienoic n-6 acid", 0.807, G
+"Docosenoic cis acid", 0.002, G
+"Heptadecenoic acid", 0.068, G
+"Folate, DFE", 9.00, UG
+"Water", 52.62, G
+"Sugars", 3.76, G
+"Calcium, Ca", 97.00, MG
+"Potassium, K", 132.00, MG
+"Zinc, Zn", 0.50, MG
+"Selenium, Se", 8.6, UG
+"Vitamin E", 0.86, MG
+"Vitamin D (D2 + D3), International Units", 0.00, IU
+"Vitamin D2", 0.00, UG
+"Lutein + zeaxanthin", 7.00, UG
+"Niacin", 0.091, MG
+"Pantothenic acid", 0.517, MG
+"Vitamin B6", 0.056, MG
+"Tocopherol, gamma", 0.41, MG
+"Tocotrienol, alpha", 0.04, MG
+"Vitamin K (Menaquinone-4)", 8.70, UG
+"Butanoic acid", 0.718, G
+"Hexanoic acid", 0.592, G
+"Decanoic acid", 0.868, G
+"Hexadecanoic acid", 9.405, G
+"Octadecanoic acid", 3.365, G
+"Eicosanoic acid", 0.045, G
+"Octadecenoic acid", 7.776, G
+"Octadecadienoic acid", 1.212, G
+"Octadecatrienoic acid", 0.131, G
+"Eicosatetraenoic acid", 0.053, G
+"Octadecatetraenoic acid", 0.001, G
+"Eicosenoic acid", 0.064, G
+"Docosenoic acid", 0.002, G
+"Monounsaturated fatty acids", 8.907, G
+"Polyunsaturated fatty acids", 1.483, G
+"Pentadecanoic acid", 0.344, G
+"Trans-octadecenoic acid", 0.836, G
+"Docosenoic trans acid", 0.000, G
+"Trans-octadecadienoic acid", 0.225, G
+"Octadecadienoic CLAs acid", 0.180, G
+"Cis,cis-eicosadienoic n-6 acid", 0.007, G
+"Cis-hexadecenoic acid", 0.542, G
+"Cis,cis,cis-octadecatrienoic n-6 acid", 0.002, G
+"Eicosadienoic acid", 0.039, G
+"Fatty acids, total trans-polyenoic", 0.229, G
+"Eicosadienoic n-6 acid", 0.036, G
+"Alcohol, ethyl", 0.0, G
+"Valine", 0.395, G
+"Arginine", 0.235, G
+"Histidine", 0.175, G
+"Aspartic acid", 0.514, G
+"Serine", 0.374, G
+"Isoleucine", 0.324, G
+"Leucine", 0.657, G
+"Lysine", 0.567, G
+"Cystine", 0.042, G
+"Alanine", 0.184, G
+"Glutamic acid", 1.304, G
+"Glycine", 0.142, G
+"Proline", 0.665, G
+"Threonine", 0.233, G
+"Methionine", 0.191, G
+"Phenylalanine", 0.291, G
+"Tyrosine", 0.303, G
+"Manganese, Mn", 0.011, MG
+"Vitamin C", 0.0, MG
+"Tryptophan", 0.069, G
+"Magnesium, Mg", 9.00, MG
+"Starch", 0.35, G
+"Sodium, Na", 314.00, MG
+"Vitamin B12, added", 0.00, UG
+"Vitamin E, added", 0.00, MG
+"Fiber", 0.0, G
+"Caffeine", 0.00, MG
+"Theobromine", 0.00, MG
+"Tocopherol, alpha", 0.86, MG
+# Downloaded from https://www.nutritionvalue.org 

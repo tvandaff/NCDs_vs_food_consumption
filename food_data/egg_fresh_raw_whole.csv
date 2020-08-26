@@ -1,0 +1,139 @@
+charset=utf-8,# Downloaded from https://www.nutritionvalue.org 
+# Egg, fresh, raw, whole
+# Serving size 100 g
+Nutrient, Amount, Unit
+"Calories", 143.00, KCAL
+"Fat", 9.51, G
+"Protein", 12.56, G
+"Carbohydrate", 0.72, G
+"Folic acid", 0.00, UG
+"Caffeine", 0.00, MG
+"Theobromine", 0.00, MG
+"Choline", 293.8, MG
+"Betaine", 0.3, MG
+"Isoleucine", 0.671, G
+"Leucine", 1.086, G
+"Lysine", 0.912, G
+"Cystine", 0.272, G
+"Valine", 0.858, G
+"Arginine", 0.820, G
+"Histidine", 0.309, G
+"Aspartic acid", 1.329, G
+"Serine", 0.971, G
+"Tryptophan", 0.167, G
+"Threonine", 0.556, G
+"Methionine", 0.380, G
+"Phenylalanine", 0.680, G
+"Tyrosine", 0.499, G
+"Alanine", 0.735, G
+"Glutamic acid", 1.673, G
+"Glycine", 0.432, G
+"Proline", 0.512, G
+"Fluoride, F", 1.1, UG
+"Tocotrienol, gamma", 0.01, MG
+"Tocotrienol, delta", 0.00, MG
+"Thiamin", 0.040, MG
+"Riboflavin", 0.457, MG
+"Vitamin B12", 0.89, UG
+"Cholesterol", 372.00, MG
+"Fatty acids, total trans", 0.038, G
+"Saturated fatty acids", 3.126, G
+"Octanoic acid", 0.004, G
+"Dodecanoic acid", 0.000, G
+"Tetradecanoic acid", 0.033, G
+"Docosahexaenoic n-3 acid (DHA)", 0.06, G
+"Docosanoic acid", 0.004, G
+"Tetradecenoic acid", 0.007, G
+"Hexadecenoic acid", 0.201, G
+"Eicosapentaenoic n-3 acid (EPA)", 0.00, G
+"Docosapentaenoic n-3 acid (DPA)", 0.01, G
+"Heptadecanoic acid", 0.022, G
+"Tetracosanoic acid", 0.000, G
+"Trans-hexadecenoic acid", 0.003, G
+"Tetracosenoic cis acid", 0.000, G
+"Cis-octadecenoic acid", 3.388, G
+"Cis,cis-octadecadienoic n-6 acid", 1.531, G
+"Docosenoic cis acid", 0.000, G
+"Heptadecenoic acid", 0.012, G
+"Fatty acids, total trans-monoenoic", 0.026, G
+"Pentadecenoic acid", 0.000, G
+"Cis,cis,cis-octadecatrienoic n-3 acid (ALA)", 0.04, G
+"Eicosadienoic n-3 acid", 0.001, G
+"Docosatetraenoic acid", 0.013, G
+"Galactose", 0.00, G
+"Cryptoxanthin, beta", 9.00, UG
+"Lycopene", 0.00, UG
+"Tocopherol, delta", 0.06, MG
+"Ash", 1.06, G
+"Fructose", 0.00, G
+"Lactose", 0.00, G
+"Alcohol, ethyl", 0.0, G
+"Iron, Fe", 1.75, MG
+"Magnesium, Mg", 12.00, MG
+"Phosphorus, P", 198.00, MG
+"Sodium, Na", 142.00, MG
+"Copper, Cu", 0.072, MG
+"Manganese, Mn", 0.028, MG
+"Vitamin A", 540.00, IU
+"Retinol", 160.00, UG
+"Vitamin A, RAE", 160.00, UG
+"Carotene, beta", 0.00, UG
+"Carotene, alpha", 0.00, UG
+"Selenium, Se", 30.7, UG
+"Vitamin E", 1.05, MG
+"Lutein + zeaxanthin", 503.00, UG
+"Tocopherol, beta", 0.01, MG
+"Tocopherol, gamma", 0.50, MG
+"Tocotrienol, alpha", 0.06, MG
+"Tocotrienol, beta", 0.00, MG
+"Sucrose", 0.00, G
+"Glucose (dextrose)", 0.37, G
+"Maltose", 0.00, G
+"Water", 76.15, G
+"Sugars", 0.37, G
+"Calcium, Ca", 56.00, MG
+"Potassium, K", 138.00, MG
+"Zinc, Zn", 1.29, MG
+"Octadecadienoic acid", 1.555, G
+"Octadecatrienoic acid", 0.048, G
+"Eicosatetraenoic acid", 0.188, G
+"Octadecatetraenoic acid", 0.000, G
+"Eicosenoic acid", 0.027, G
+"Docosenoic acid", 0.000, G
+"Monounsaturated fatty acids", 3.658, G
+"Polyunsaturated fatty acids", 1.911, G
+"Pentadecanoic acid", 0.008, G
+"Trans-octadecenoic acid", 0.023, G
+"Docosenoic trans acid", 0.000, G
+"Trans-octadecadienoic acid", 0.012, G
+"Octadecadienoic CLAs acid", 0.012, G
+"Cis,cis-eicosadienoic n-6 acid", 0.018, G
+"Cis-hexadecenoic acid", 0.198, G
+"Cis,cis,cis-octadecatrienoic n-6 acid", 0.012, G
+"Eicosadienoic acid", 0.023, G
+"Fatty acids, total trans-polyenoic", 0.012, G
+"Eicosadienoic n-6 acid", 0.022, G
+"Niacin", 0.075, MG
+"Pantothenic acid", 1.533, MG
+"Vitamin B6", 0.170, MG
+"Butanoic acid", 0.004, G
+"Hexanoic acid", 0.000, G
+"Decanoic acid", 0.006, G
+"Hexadecanoic acid", 2.231, G
+"Octadecanoic acid", 0.811, G
+"Eicosanoic acid", 0.003, G
+"Octadecenoic acid", 3.411, G
+"Vitamin E, added", 0.00, MG
+"Vitamin B12, added", 0.00, UG
+"Vitamin D (D2 + D3), International Units", 82.00, IU
+"Folate, DFE", 47.00, UG
+"Folate, food", 47.00, UG
+"Vitamin D3", 2.00, UG
+"Vitamin D", 2.00, UG
+"Vitamin K (Dihydrophylloquinone)", 0.10, UG
+"Vitamin K", 0.3, UG
+"Folate", 47.00, UG
+"Vitamin C", 0.0, MG
+"Fiber", 0.0, G
+"Tocopherol, alpha", 1.05, MG
+# Downloaded from https://www.nutritionvalue.org 
